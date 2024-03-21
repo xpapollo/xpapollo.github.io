@@ -1,0 +1,58 @@
+
+Aug 2023– Present Project Manager at Muang Thai Life Assurance (AVP level)
+
+Project Long Term Tech (LOF4POS)
+- Transfer Knowledge and responsibility from vendor (migration)
+- Act as Team lead and improve members skill
+(JAVA8, Eclipse, AngularJS, WebLogic, Oracle DB)
+
+Feb 2019 –Jul 2023 System Analyst/Team Lead at Ayudhya Capital Services Ltd. (Manager level)
+- Act as team lead for insurance broker (Lotus’s money, Krungsri Broker)
+- Develop microservice for online website channel (JAVA, VueJs)
+- Project LocalAgent replace Java applet with Node.js / Golang via http on client side for
+EDC communication, image processing. file transfer
+(JAVA11, Spring Framework, VueJs, Node.js, Golang, Openshift, Jenkins, Oracle)
+
+Jul 2017 –Feb 2019 Senior Credit Risk Officer at Government Housing Bank
+- Act as developer team lead for internal workflow and MIS system
+- Design and develop “360° Smart View Intelligent”
+(Node.js, JavaScript, PHP, SQL Server 2016)
+
+Dec2016 –June 2017 System Analyst at GlobeTech Co., Ltd. (Affiliates of CDG)
+- Develop GPS Tracking System “NOSTRA Logistics” (version 2)
+- Customize system “NOSTRA Logistics” (version 1) for customer
+(Visual Studio 2015 C#, SQL Server 2012, QGIS)
+
+Feb 2016 – Nov 2016 System Analyst/Developer (Contract)at Ayudhya Capital Services Ltd.
+- Develop and Implement system change request on “Decision Module” in
+“Underwriting System”/ “New Application” (support Risk Management Department)
+including NCB, Credit Score (A/B Score)
+(JAVA6/EJB, Eclipse, Oracle 11g PL/SQL, R/Python for Statistics)
+Feb 2015 – Oct 2015 Programmer Analyst (Contract) at MIMO Tech Co., Ltd. (Subsidiary AIS)
+
+- Develop and Maintenance for USSD Response Application.
+(JAVA7, Eclipse 4.4, Hibernate, Redhat Linux)
+
+Sept 2013 – Jan 2015 Senior Programmer at Mobile Innovation Co.,Ltd.
+
+- Develop and Maintenance for GPS Tracking System (GTS) with Google Map
+(JAVA7, Eclipse 4.4, SVN, Google Map API, MySQL 5, Nodejs, CentOS Linux)
+- Develop and Maintenance for Data warehouse (summary report & abnormal
+detect with association and clustering technique)
+(Python/R, R studio, MySQL 5, Tableau 7)
+Oct 2012 –Feb 2013 Senior Programmer at Areeya Property PLC.
+- Develop a land transfers system “Sales Online”
+(JAVA6, Eclipse 4.4, SQL Server 2008)
+- Develop a public utilities charge system “Community Mall System”
+(Visual studio 2010 VB, SQL Server 2008, Microsoft .NET Framework 4.0 / MVC)
+
+Aug 2009 – Sept 2012 Credit Risk Officer at Government Housing Bank
+
+- Develop and Maintenance web application “Credit risk review system”
+- Audit Database to identify risk.
+(Abnormal detect with association and clustering technique)
+- Develop utilities tools such as Interest Calculator etc.
+Apr 2006 – Mar 2007 Junior Engineer at Sony Devices Technology
+
+- Develop and Maintenance web application “Handler parameter”
+- Problem investigation for computer in production line.
